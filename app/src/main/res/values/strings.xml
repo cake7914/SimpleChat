@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleChat</string>
+    <string name="say_anything">Say Anything</string>
+    <string name="send">Send</string>
 </resources>

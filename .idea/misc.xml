@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/message_incoming.xml" value="0.1705" />
+        <entry key="app/src/main/res/drawable/message_outgoing.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_chat.xml" value="0.2574066162109375" />
+        <entry key="app/src/main/res/layout/message_incoming.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/message_outgoing.xml" value="0.3601119995117188" />
       </map>
     </option>
   </component>
